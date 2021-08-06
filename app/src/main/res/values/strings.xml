@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Catet.in</string>
+    <string name="balance_text">Your Balance</string>
+    <string name="expense">Pengeluaran</string>
+    <string name="income">Pemasukan</string>
+    <string name="finance_statement">Laporan Keuangan</string>
+    <string name="debt">Tagihan Hutang</string>
+    <string name="pay">Bayar</string>
+    <string name="income_name">nama pemasukan</string>
+    <string name="nominal">nominal</string>
+    <string name="category">kategori</string>
+    <string name="date">tanggal</string>
+    <string name="submit">SUBMIT</string>
+</resources>
